@@ -1,0 +1,10 @@
+.env
+Data/
+
+# .NET standard ignores
+bin/
+obj/
+.vs/
+*.user
+*.suo
+appsettings.Development.json
