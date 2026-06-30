@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SomniPedia.Api/SomniPedia.Api.csproj" />
+  <Project Path="SomniPedia.Core/SomniPedia.Core.csproj" />
+  <Project Path="SomniPedia.Repository/SomniPedia.Repository.csproj" />
+  <Project Path="SomniPedia.Services/SomniPedia.Services.csproj" />
+</Solution>
