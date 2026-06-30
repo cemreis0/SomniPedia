@@ -3,4 +3,5 @@
   <Project Path="SomniPedia.Core/SomniPedia.Core.csproj" />
   <Project Path="SomniPedia.Repository/SomniPedia.Repository.csproj" />
   <Project Path="SomniPedia.Services/SomniPedia.Services.csproj" />
+  <Project Path="SomniPedia.Tests/SomniPedia.Tests.csproj" />
 </Solution>
